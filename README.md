@@ -2,7 +2,7 @@
 
 This is a repository that has sample code for Moorad his [Medium Article](https://blog.usejournal.com/how-i-made-my-own-youtube-downloader-using-javascript-and-node-js-160b172f6e10)
 
-## Get Started
+## Getting Started
 
 - [Install NodeJS](https://nodejs.org/)
 
